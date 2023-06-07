@@ -1,1 +1,9 @@
 aoba my name is abdiel
+main() bouelan{
+ if int(dream == 100)
+typling_condigo = YES
+print "deu certo"
+else return 0)
+
+}
+ 
